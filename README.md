@@ -16,11 +16,6 @@ Este repositorio contiene una colección de ejercicios de programación en Pytho
 - **Listas y Diccionarios**: Ejercicios que implican el uso de estructuras de datos como listas y diccionarios.
 - **Comprensiones de Listas**: Ejercicios para practicar la creación de listas utilizando comprensiones de listas.
 
-### Ejercicios Avanzados
-- **Programación Orientada a Objetos**: Ejercicios para entender y aplicar los conceptos de clases y objetos.
-- **Manejo de Archivos**: Ejercicios para leer y escribir archivos en Python.
-- **Módulos y Paquetes**: Ejercicios para aprender a organizar y reutilizar el código mediante módulos y paquetes.
-
 ## Cómo Usar Este Repositorio
 
 1. **Clona el repositorio**:
